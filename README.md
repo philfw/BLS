@@ -22,3 +22,7 @@ BLS Legal Hackers Student Club (aka BLUSH)
 | Reuben Gottlieb   |                  |
 | Scott Bamberger   |                  |
 | Sydney Abualy     |                  |
+
+## Resources ##
+(Legal Hackers Website)[http://legalhackers.org]
+(Bitcoin Wiki)[https://en.bitcoin.it/wiki/Main_Page]
